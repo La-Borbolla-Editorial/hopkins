@@ -10,6 +10,9 @@ on:
       - 'generate_index.py'
       - 'generate_author.py'
 
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -46,6 +49,7 @@ jobs:
       - name: Commit generated files
         uses: EndBug/add-and-commit@v9
         with:
+          token: ${{ secrets.GITHUB_TOKEN }}
           author_name: github-actions[bot]
           author_email: 41898282+github-actions[bot]@users.noreply.github.com
           message: "chore(site): build generated pages"
