@@ -1,6 +1,6 @@
 ---
 title: You, you only, exist
-author: Rainier Maria Rilke
+author: Rainer Maria Rilke
 ---
 
 _Translated by Stephen Mitchell_
