@@ -72,7 +72,7 @@ Dis-graced he may be, yet is not dethroned,
 and keeps the rags of lordship one he owned,
 his world-dominion by creative act:
 not his to worship the great Artefact.
-man, sub-creator, the refracted light
+Man, sub-creator, the refracted light
 through whom is splintered from a single White
 to many hues, and endlessly combined
 in living shapes that move from mind to mind.
