@@ -28,7 +28,9 @@
     "Jorge Luis Borges",
     "Jorge Manrique",
     "Leopoldo Marechal",
+    "Lope de Vega",
     "Lord Byron",
+    "Luis de Góngora",
     "Malcolm Guite",
     "Marcela Duque",
     "Mary Oliver",
@@ -84,6 +86,8 @@
     11,
     3,
     3,
+    2,
+    1,
     1,
     1,
     2,
@@ -225,7 +229,15 @@
       "count": 3
     },
     {
+      "author": "Lope de Vega",
+      "count": 2
+    },
+    {
       "author": "Lord Byron",
+      "count": 1
+    },
+    {
+      "author": "Luis de Góngora",
       "count": 1
     },
     {
