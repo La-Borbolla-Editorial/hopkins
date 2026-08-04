@@ -3,6 +3,7 @@
     "Alexander Pope",
     "Anne Bradstreet",
     "Anonymous",
+    "Anonymous 9th Century Anglo-Saxon",
     "Anonymous 9th Century Irish Monk",
     "Antonio Machado",
     "Blaise Pascal",
@@ -61,6 +62,7 @@
     1,
     2,
     1,
+    2,
     1,
     1,
     1,
@@ -127,6 +129,10 @@
     {
       "author": "Anonymous",
       "count": 1
+    },
+    {
+      "author": "Anonymous 9th Century Anglo-Saxon",
+      "count": 2
     },
     {
       "author": "Anonymous 9th Century Irish Monk",
