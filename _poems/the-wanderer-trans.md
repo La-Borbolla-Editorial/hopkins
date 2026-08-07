@@ -11,7 +11,7 @@ across the ocean-ways he has long been forced
 to stir with his hands the frost-cold sea,
 and walk in exile's paths. Wyrd is fully fixed.
 
-       Thus spoke the Wanderer, mindful of troubles,
+Thus spoke the Wanderer, mindful of troubles,
 of cruel slaughters and dear kinsmen's downfall:
 "Often alone, in the first light of dawn,
 I have sung my lament. There is none living
@@ -43,7 +43,7 @@ He remembers hall-holders and treasure-taking,
 how in his youth his gold-giving lord
 accustomed him to the feast—that joy has all faded.
 
-       And so he who has long been forced to forego
+And so he who has long been forced to forego
 his lord's beloved words of counsel will understand:
 when sorrow and sleep both together
 often bind up the wretched exile,
@@ -65,7 +65,7 @@ familiar voices. Cares are renewed
 for one who must send, over and over,
 a weary heart across the binding waves.
 
-       And so I cannot imagine for all this world
+And so I cannot imagine for all this world
 why my spirit should not grow dark
 when I think through all this life of men,
 how suddenly they gave up the hall-floor,
@@ -81,7 +81,7 @@ a man must wait, when he makes a boast,
 until the brave spirit understands truly
 where the thoughts of his heart will turn.
 
-       The wise man must realize how ghastly it will be
+The wise man must realize how ghastly it will be
 when all the wealth of this world stands waste,
 as now here and there throughout this middle-earth 
 walls stand blasted by wind,
@@ -97,7 +97,7 @@ of men thus destroyed this walled city,
 until the old works of giants stood empty,
 without the sounds of their former citizens.
 
-       He who deeply considers, with wise thoughts,
+He who deeply considers, with wise thoughts,
 this foundation and this dark life,
 old in spirit, often remembers
 so many ancient slaughters, and says these words:
@@ -121,7 +121,7 @@ Here wealth is fleeting, here friends are fleeting,
 here man is fleeting, here woman is fleeting,
 all the framework of this earth will stand empty.’
 
-       So said the wise one in his mind, sitting apart in meditation.
+So said the wise one in his mind, sitting apart in meditation.
 He is good who keeps his word, and the man who never too quickly
 shows the anger in his breast, unless he already knows the remedy
 a noble man can bravely bring about. It will be well for one who seeks mercy,
