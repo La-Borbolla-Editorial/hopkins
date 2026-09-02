@@ -115,6 +115,9 @@ function renderGate({ status, returnTo, message = "" }) {
   <meta name="robots" content="noindex, noarchive">
   <title>Hopkins — Access</title>
   <link rel="stylesheet" href="/main.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300..700;1,300..700&display=swap" rel="stylesheet">
 </head>
 <body>
   <div id="main">
