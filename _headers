@@ -1,0 +1,6 @@
+/poems/*
+  X-Robots-Tag: noindex, noarchive
+
+/*
+  X-Frame-Options: DENY
+  Referrer-Policy: same-origin
