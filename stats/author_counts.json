@@ -56,7 +56,8 @@
     "Wilfred Owen",
     "William Ernest Henley",
     "William Shakespeare",
-    "Wisława Szymborska"
+    "Wisława Szymborska",
+    "Xavier Villaurrutia"
   ],
   "data": [
     1,
@@ -114,8 +115,9 @@
     1,
     5,
     1,
-    32,
-    2
+    33,
+    2,
+    1
   ],
   "raw": [
     {
@@ -340,11 +342,15 @@
     },
     {
       "author": "William Shakespeare",
-      "count": 32
+      "count": 33
     },
     {
       "author": "Wisława Szymborska",
       "count": 2
+    },
+    {
+      "author": "Xavier Villaurrutia",
+      "count": 1
     }
   ]
 }
